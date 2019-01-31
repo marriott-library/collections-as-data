@@ -1,0 +1,259 @@
+ JOHN " J A C K " K . THAMM Grand Junction, Colorado Tape No. 98
+An Interview by
+Clare Engle and Richard Gibbs August 3, 1970
+American West Center University of Utah Uranium History Series
+
+ Table of Contents
+Background. 1 Functions At Uravan. 2 Bearing Formations. 4 Drilling. 6 Theory of Uranium Deposition. 11 Uravan Mineral Belt. 14 Costs of Drilling an Ore Body. 17
+
+ THE FOLLOWING I S AN
+INTER VIEW WITH JOHN " J A C K " K. THAMM. HOME I N GRAND J U N C T I O N , COLORADO AND 3 , 1 9 7 0 . THE INTERVIEWERS ARE CLARE ENGLE AND RICHARD G I B B S . T H I S I S P ART OF THE URANIUM
+HISTORY SERIES.
+WE ARE A T THE DATE
+THE THAMM I S AUGUST
+CE:
+Thank you very much Mr. Thamm for taking time to talk with Richard Gibbs and me this afternoon. We appreciate this opportunity. Before we talk about your work in geology and your work for Union Carbide, would you tell us where you were born and where you were raised and educated?
+I was born in Bradford, Pennsylvania, in 1926, and I attended schools there and in Philadelphia. My college degrees are from Bucknell University, Lafayette College, and Penn State.
+All in geology?
+All in geology--no, I have a degree in, let's see, in biology and chemistry from Bucknell University, and then I transferred and went into geology from there. Where did you go after you left college?
+Let's see, I worked for an oil company for about a year, and then in 1955 I came to work for Union Carbide at Uravan. I worked in Uravan from 1955 to early 1957 when I was transferred to Grand Junction. From that time until two years ago in 1968, I worked
+with the Exploration Corporation mostly throughout the United States while having very little to do with uranium. In 1968 when I was transferred back to the
+JT:
+CE: JT:
+CE: JT:
+
+ JOHN
+CE:
+JT:
+" J A C K " K. THAMM
+uranium business and into my present job which has to do mostly with the Uravan Mineral Belt and other uranium explorations in the country.
+Is there an analogy between oil geology and uranium geology?
+Oh, I think so, in the sense that both uranium and oil exploration deal largely with sedimentary rocks and to carry the analogy a little further probably we looked for a good many similiar types of things in
+finding both petroleum and uranium.
+What were your functions at Uravan when you first came to work for Union Carbide?
+I was a field geologist. I worked at that time for John Mitika who was the chief geologist. I think John started with the company about 1952 and left about 1967, so he is the one who was largely responsible for the geological work done for Union Carbide in the Uravan Mineral Belt for most of those fifteen years. What were your duties as a field geologist during this period?
+Mostly to supervise surface drilling rigs both what we call a wagon drill which is percussion drill and diamond drills which are core drills.
+It was during this period that the AEC begins to slacken in their exploration on the plateau. Do you
+RG:
+JT:
+RG:
+JT:
+RG:
+2
+
+ JOHN " J A C K " K. THAMM
+have any idea how your exploration and their exploration differed?
+JT: No. As a matter of fact I would assume that they would be quite similar and in many instances we had available to us the results of their explorations. Many of their diamond drilled holes were drilled on property which we owned at the time and of course all this information would be accessible to us and we used it to the best advance we could and many cases
+there had been ore drilled by them which we would
+merely offset and expand into mineable ore bodies.
+RG: You would then block off the ore that they had
+tapped. JT: Yes.
+RG: During this period were you ever involved in any other type of field jobs like walking the rims or anything of that nature?
+JT: Oh, I'm sure that al1 of us did some of this from time to time, from carrying the scintillators and checking the outcrops. But most of the work which we did at that time was with the drills, trying to locate and develop new ore bodies.
+RG: What type of area warranted further exploration by drilling?
+JT: Well, I don't know what you may know about the Uravan 3
+
+ J O H N
+" J A C K " K . THAMM
+Mineral Belt particularly but it's a pretty well- defined belt and there were a number of guides which
+at that time were considered important and which we still consider important. The belt is roughly about a hundred miles long and it varies in width from perhaps two to ten miles. The most productive parts of the belt are within what we call channels. These are spaced about three to seven miles apart. The channels are the areas where the ore deposits are most closely spaced and where the grade is usually the best. We locate these and I believe the original guides were developed probably early in the 194Os. One of the people I believe largely responsible was R. P. Fisher of the U.S. Geological Survey. To run down the guides just very generally, these are the areas where the sandstone is thickest generally over forty feet thick where it does contain carbonaceous trash and where there they interveded and underline mudstones are bleached a gray or blue-gray color. These are the favorable guides for which we looked and for which we still look to determine proximity to ore bodies.
+RG: During the early period of uranium industry right after World War II, the Shinarump and Chinle were basically ignored as ore bearing formations. Now, I
+4
+
+ JOHN
+JT:
+" J A C K " K. THAMM
+was wondering in the later period how much attention did you pay to this formation? Were they given equal
+attention?
+No, Union Carbide had paid very little attention to the Moss Back or the Shinarump type deposits largely because they contained too little vanadium to be of
+interest to us. All of our mills locally, by that I mean both of our mills, the one at Rifle and the one at Uravan are mills operated for the recovery of both uranium and vanadium and we have always considered it most important to find this type of ore for these particular mills.
+So you weren't interest in the White Canyon-Red Canyon area of San Juan County.
+No, not particularly. In fact down through the years the company has shown very little interest in that type of ore. So long as we have adequate supply of vanadium ore these were not of particular interest to us.
+What kind of interest did the company have in the
+CE:
+JT:
+RG:
+Grants area now? They started around those years?
+JT: We have had and some of this I'm not personally familiar with. We have no present interest in the
+Grants district that I know of. RG: Because of the lack of vanadium?
+5
+
+ JOHN " J A C K " K. THAMM
+JT: Primarily so. I suppose at this time because it is a
+well-established district with very competent and large operators who probably have fifteen years experience that we don't have at the moment, and I think that it would be largely for that reason, that were not interested in that area.
+RG: You mentioned drilling now. You mentioned that you did both percussion and core drilling, the diamond bit core drilling. I'm wondering why. I realize the difference in cost now and developing between percussion and core drilling. What type of area or what type of deposit would merit core drilling rather than percussion?
+JT: Well, percussion drilling is limited, at least to the type of drills we have, to areas that are dry. In other words, where there is no great amount of water and which would be less than probably 250 feet in depth. As the mineral belt has progressed from its early stages when most of the ore was found at very shallow depths or on the outcrop, it is now found largely at depths of five hundred feet and deeper. Percussion d rills w ill not get to th is depth.
+Consequently we use mostly what we call rotary drilling which is simply a plug drilling in which a sample is brought to the surface where it's not too
+6
+
+ JOHN
+" J A C K " K. TRAMM
+wet, and if you get no sample then we probe the holes. And the other kind of drilling is the diamond core drilling where an actual section of the rock is brought to the surface in a core barrel so that's the
+reason that we do very little percussion drilling in the deeper exploration areas that we now look at.
+How is Union Carbide going today?
+RG:
+JT: Well, we're in the process right now, drilling a hole
+which will go to about twenty-nine hundred feet but this is not for the type of ore, not for the Salt Wash ore. This is actually Moss Back ore that we're looking for. Most of our drill holes for the Salt Wash, for core drilling particularly probably average between four hundred and eight hundred feet and a good part of that will be seven hundred feet and over.
+RG: What are the problems involved with mining ore that is this deep?
+JT: Well, the problems are not any different really than mining ore at shallow depths. Of course the costs change if you want to classify that as a problem. A seven hundred foot shaft is obviously a great expense compared to many of the shallow openings that they had many years ago. But once the method of entry is gained the mining methods are probably quite similar
+7
+
+ JOHN " J A C K " K. THAMM
+and the cost probably don't vary too much. In the deeper, larger mines you do have a problem of ventilating more than the shallow, smaller mines and this comes into it as a problem in terms of cost.
+RG: These ore bodies that require such deep shafts-- doesn't this necessitate a very large ore body to make it worthwhile?
+JT: Well, very large ore bodies in the Uravan area are probably not very large ore bodies in terms of the Grants district or in terms of the Big Indian district so I would have to hesitate to give you a figure which would be a minimum, but probably in a range of 50 to 100,000 tons we could mine at seven hundred feet. Now this is actually a pretty small ore body, so we can still mine it at that depth.
+RG: Would Union Carbide contract some of these ore bodies out that are at great depth or would they do the work themselves?
+JT: Well, to date we have done all the mining ourselves. Sometimes the shaft work, the entry, the vent holes are contracted out to contractors who bid on the job but the actual mining, so far, has been done by Carbide.
+CE: Going back to ventilation, discuss what's involved in ventilating these mines. I've heard of course about
+8
+
+ JOHN " J A C K " K. THAMM
+the radiation problems and the reason for ventilation but I haven't had a good explanation as to the procedure that's followed, what is necessary in getting proper ventilation. Can you expand on that
+for us?
+JT: Not very much I'm afraid, Mrs. Engle. This falls
+largely into the field of engineering, in mining engineering, and I don't claim to be a expert in that field. The ventilation work is all done by the mining group upstairs. So I can't say too much about it, even from the standpoint of knowing anything or how it's done.
+CE: So when I go upstairs, I'll ask up there.
+JT: That's a good question upstairs.
+CE: Okay, I will remember that. What's being done at Gas
+Hill?
+JT: In terms of exploration?
+CE: Uh huh.
+JT: Well, most of our property has been fairly well
+explored over the years and now its a matter of filling in areas where we already know where there is some ore. It's just a matter of expanding it to find out its size and its grade and whether or not it is mineable and at what cost. But we're fairly sure of what the reserves are there now and it's a matter of
+9
+
+ JOHN
+CE:
+JT: CE: JT: CE: JT:
+" J A C K " K. THAMM
+mostly blocking them out.
+That's open pit mining isn't it? Yes.
+Which is what, less expensive? Oh, considerably so.
+Why?
+Well, primarily, and again this gets into the mining engineering field, but I suppose the simplest answer would be that you could move a lot of rock very cheaply with the size equipment that's put to use
+right now.
+How are geological studies done in areas such as that, where everything is exposed. I assume it is. Well, the ore is not exposed of course, but again the ore bodies up there are fairly shallow, and we can use a fairly cheap method of drilling. So most of the information that we get on our own properties now is obtained by drilling, and the information that we get from drill holes is put on maps, and your geological interpretations come from the review of that drilling information.
+I can't visualize it. Maybe that's my problem, I've
+seen pictures of it. It's still difficult for me to
+CE:
+JT:
+CE:
+understand how one goes about mining in an open pit. JT: Well, again I guess I'11 have to refer you to the
+10
+
+ JOHN " J A C K " K. THAMM mining people.
+CE: Upstairs. [laughter]
+RG: You mentioned that you started working for Union
+Carbide in 1955, and since this time has the theory of uranium deposition, of where mineralization occurs, has it changed greatly since that time?
+JT: No, I don't think it has changed greatly. In 1955, probably there was a great deal more interest in the genesis of these particular ore bodies. There were several theories, probably still are, but I don't think that people are as much interested in the theory anymore. At least you don't hear the discussions that used to go on all over the place as to how it got there and why it got there. Now it's just sort of accepted that here it is or there it is and we mine it as best we can. The guides which I reviewed for you earlier are pretty much the same regardless of what theory you approach the ore bodies from. So as long we stick to these, the genesis of the ore bodies, while it is of considerable interest, becomes a little bit academic. It doesn't affect how we prospect for it too much.
+CE: What's your theory?
+JT: Well, I don't really know I ever stood on one in
+particular. I think probably the ore bodies were 11
+
+ JOHN
+" J A C K " K . THAMM
+formed considerably later than the enclosing host rocks and probably they were brought in solution in some form of moving ground water and probably they were precipitated by these accumulations of carbon which reduce the pH of the moving solutions to the point where uranium came out of solution and precipitated around these carbon trash pockets. But beyond that and getting into the details some of your people dealing with the AEC probably could get a better answer to that than mine.
+Did you, Rich?
+I've been through the hydro-thermal deposition theory several times now.
+Well, that's one and a--
+That's the one accepted by our prof.
+Oh, is it. Well, then maybe I better agree with that one.
+No, not necessarily.
+In our work we're more interested in finding it and
+mining it, and the discussions are usually carried on after five o'clock on your own time because as I say it doesn't affect how we look for it too much.
+Except a scholar listening to this might wonder, "Well, what did the Union Carbide geologist think created this." That's why we're trying to pursue
+CE: RG:
+JT: CE: JT:
+CE: JT:
+CE:
+12
+
+ JOHN
+RG:
+JT:
+RG:
+JT: RG:
+JT:
+RG:
+" J A C K " K. THAMM
+this.
+Well, another point is that I don't know--the Webber report. I don't know if you're familiar with the Webber report.
+I don't think I've ever read it. This was some of the early work done?
+Yeah, by the Union Mines and Ben Webber was the man who wrote a great deal of it. His theory of deposition was rather unique, and Ben Webber has since been proven false, completely false.
+I guess I don't even know what his theory was. Something about how uranium all migrated from the north to the south and partially it was in solution. The reason, he never explained why it stopped in a particular place, it just stopped.
+Well, I'm sure there other people much more qualified to discuss the origin of this stuff than I am. To repeat myself again, it doesn't affect our work to that extent within this local area.
+What kind of work are you doing today on the Uravan
+Mineral Belt? Are you searching for just ore bodies and blocking them off on property that is already owned by Union Carbide or--?
+JT: No, our work is a more or less divided into three general categories , I guess, one of which is
+13
+
+ JOHN " J A C K " K . THAMM
+exploration for new properties. And under that comes the acquisition of these properties and the exploration of them. The second phase is I work underground actually with the mining people in trying
+to provide them with as much geologic information as is useful to them in their mining development and in their actual stoke mining. The third category generally follows again in the drilling field but around and near the operating mines so that we can, if possible, replace each ton of mined ore with one ton of newly found ore to keep the reserves up, in other words, for the mines as they go.
+RG: You mentioned the new property now, and what is it just basic field geology followed up by drilling then?
+JT: Well, there's actually not too much field geology done in the sense that here again these ore bodies are which we're looking now are deeply buried and there is no outcrop to guide you. It's mostly a projection in the direction we think the mineral belt trends and we pick up property along that trend and drill it on wide space centers to determine its favorability. Then if it's a good of course we can continue, if it's bad we drop it and move in another
+direction.
+14
+
+ JOHN " J A C K " K . THAMM
+RG: Then would you almost have to classify it as going in
+JT:
+cold just on a geological guess and then drilling?
+I wouldn't say it's exactly a guess. It's based upon proven success of fifteen, twenty, or twenty-five years' experience. So I guess from my own standpoint I'd really call it more experience than a guess, maybe some of both.
+But it is highly successful then?
+It's not a successful as it used to be. The mineral belt, as I'm sure you heard other people say, has been declining and is still declining from the peak days of several years ago. So no, we're not finding as much ore as they found say during the period of 1950 to 1965. We find probably a little bit less each year.
+What is the geological future of the Uravan Mineral Belt or will it continue declining till there is no more ore and how long will it last?
+Well, when we stop mining of course is largely a question of economics. These ore bodies are so numerous that you can always continue to find some. We're not at this point continuing to find them as rapidly as we're mining them, and I would say that short of some major find, which we have not made in
+the last few years, the course is inevitably 15
+RG: JT:
+RG:
+JT:
+
+ JOHN
+" J A C K " K. THAMM
+downhill. The AEC does control a major block of reserves, and this would be, in my opinion at this point, the one thing that could change the course of the mineral belt.
+How long would you say Union Carbide can go on and the other companies can go on the plateau before the AEC really would have to lease these lands they have? Oh, as I guess I would say it's a matter of one to three years something in that range. Actually quite a
+few things come in to this. How much production we have to make. If we were to cut our production in half, why obviously we'd mine twice as long. But under the present commitments I would say that Union Carbide has perhaps three years of ore reserves supply that we can see that.
+Mr. Emerson told me this morning that you will be leasing Quint M errill's property?
+Yes.
+Will you have to do geological studies on those or are these already prepared?
+Well, they found a number of categories, a good many of the properties have been mined. There are existing mines on some of the properties. Some perhaps have not been drilled at all, and on those of course we would do some initial drilling to determine what
+RG:
+JT:
+CE:
+JT: CE:
+JT:
+16
+
+ JOHN
+" J A C K " K. THAMM
+value they may be. We probably will run the gamut of our normal explorations mining development underground mining in some phase on each of these properties.
+What about on AEC land. If those are released.
+Well, it's still kind of ticklish. I think there are approximately thirty different blocks. Some of them have been well drilled. The information has become available in the last year and we have taken as much advantage of it as we can. Some of the blocks, we know very well. Some of the blocks have not been drilled, and we know very little about them.
+Studies haven't been done by the AEC on these that could be--?
+Well, I can't answer that question too much. I would say that some of the blocks have very few drill holes on them. Consequently probably very few of us and including the AEC would know much about them including what the potential they may have for ore
+bodies.
+So that would involve a little bit of work on your part?
+CE: JT:
+CE:
+JT:
+CE:
+JT: It's going to involve quite a bit I think.
+RG: Do you have any idea of the cost of drilling of an ore body? How much does it cost to diamond core drill
+17
+
+ JOHN " J A C K " K. THAMM
+a seven hundred foot hole?
+JT: Oh, yeah. I have a pretty good idea of what it costs. Generally what we will do in a case of a core drill hole is plug the hole down to within about seventy-
+RG: JT:
+RG:
+five feet of where we want to bring the core from, and in one of these seven hundred holes that would be roughly 625 feet and it cost us approximately a dollar and a half for each foot for that 625 foot and the remaining seventy-five feet cost us about five dollars a foot for the core. So if you were to add those two figures up and come up with the cost of the whole. The seven hundred foot hole I think probably averages, oh, twelve to fifteen hundred dollars for each one.
+How much did it cost for a percussion drilled hole? Considerably less. Probably about, all expenses taken into account, seventy-five cents a foot. And I think this are not only for Union Carbide, these are pretty much general costs throughout the industry locally. Did Union Carbide own their own equipment or do they contract out for their drilling?
+JT: We contract all of our drilling. We do own one percussion drill which is leased by a contractor and run for us.
+RG: Which companies do most of your drilling? 18
+
+ JOHN " J A C K " K. THAMM contribute?
+JT: No, I think that's pretty much all I know about it right now.
+RG: W ell, thank you very much. JT: Y ou're welcome.
+[END OF TAPE]
+20
