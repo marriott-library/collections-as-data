@@ -2,6 +2,7 @@
 This repository provides a space for the Marriott Library to share bulk digital collections data and metadata. Three datasets are currently available.
 
 [Mining Oral Histories](https://github.com/marriott-library/collections-as-data/tree/master/mining-oral-histories)
+
 Included in the repository is a collection of oral history transcripts, OCR, and metadata, curated by Anna Neatrour, Rebekah Cummings, Rachel Wittmann, Elizabeth Callaway, and Jeremy Myntti. The oral histories are drawn from digitzed Special Collections at the Marriott Library, and were originally conducted and produced by the American West Center at the University of Utah.
 
 [Matchbooks](https://github.com/marriott-library/collections-as-data/tree/master/matchbooks)
